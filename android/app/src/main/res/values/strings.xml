@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Rocket Deploy Teste</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">RR4Bq4NkVg5Tc1qL7DB5NzY1zKkFISInKtPxs</string>
 </resources>
