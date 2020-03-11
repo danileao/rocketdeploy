@@ -159,7 +159,7 @@ android {
         releaseStaging {
             buildConfigField "String", "CODEPUSH_KEY", '"RR4Bq4NkVg5Tc1qL7DB5NzY1zKkFISInKtPxs"'
 
-            matchFallbacks = ['debug', 'release']
+            matchingFallbacks = ['debug', 'release']
         }
         
         release {
